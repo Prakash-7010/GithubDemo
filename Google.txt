@@ -1,1 +1,2 @@
-hi i am prakash
+print("hi i am prakash")
+print("how we can do more homework")
